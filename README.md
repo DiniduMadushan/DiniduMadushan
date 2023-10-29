@@ -4,6 +4,7 @@
 **DiniduMadushan/DiniduMadushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...web application development and mobile application development
 - 🌱 I’m currently learning ...php and Java
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...dinidumadushan15576@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
