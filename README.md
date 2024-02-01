@@ -1,14 +1,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi , I'm Dinidu Madushan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi ,  I'm Dinidu Madushan</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=100&lines=A+passionate+computer+Science+and+technology;undergraduate+student+at;uva+wellassa+university+of+Sri+Lanka"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=100&lines=A+passionate+computer+Science+and+technology;undergraduate+student+at;uva+wellassa+university+of+Sri+Lanka;Currently+exploring+the;realms+of+software+development"></a>
 </p>
 
-<h3 align="center">A passionate Computer Science and Technology undergraduate at uva wellassa university of Sri lanka 🎓.</h3>
-
 ---
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 - 🌱 I’m currently learning **Django, MongoDB, Express, React, Node,Kotlin**
 
 - 💬 Ask me about **React, Java, PHP**
