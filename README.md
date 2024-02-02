@@ -2,10 +2,11 @@
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi ,  I'm Dinidu Madushan</h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=A+passionate+computer+Science+and+technology+undergraduate+at;uva+wellassa+university+of+Sri+Lanka;Currently+exploring+the;realms+of+software+development"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%238E2DE2&size=25&center=true&vCenter=true&width=1000&height=100&lines=A+passionate+computer+Science+and+technology+undergraduate+at;uva+wellassa+university+of+Sri+Lanka;Currently+exploring;the+realms+of+software+development;&gradient=%23A82DA2%2C%234A00E0"></a>
 </p>
+
+
 
 ---
 
