@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **dinidumadushan15576@gmail.com**
 
-- ⚡ Fun fact **🚴 Fun Fact: I believe in a healthy body, healthy mind. Apart from coding marathons, I enjoy Physical workouts. Balance is key!**
+- 🚴 Fun Fact: I believe in a healthy body, healthy mind. Apart from coding marathons, I enjoy Physical workouts. Balance is key!**
 
   <br>
   
